@@ -16,11 +16,19 @@ export default function Home() {
           <code>My Wish List</code>
         </p>
         <p className="description">
-          -Garlic Press<br>
-          -LL Bean Mocassins<br>
-          -Mini Trash can for my sewing table<br>
-          -Balance Board<br>
-          -Hot Glue Gun<br>
+          -Garlic Press
+        </p>
+        <p className="description">
+          -Hot Glue Gun
+        </p>
+        <p className="description">
+          -LL Bean Mocassins
+        </p>
+        <p className="description">
+          -Balance Board
+        </p>
+        <p className="description">
+          -Mini trash can for my sewing table
         </p>
       </main>
 
