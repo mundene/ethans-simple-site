@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my website!" />
         <p className="description">
-          <code>There's nothing here yet</code>
+          <code>My Wish List</code>
+          "Test"
         </p>
       </main>
 
