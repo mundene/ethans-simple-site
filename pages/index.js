@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my website!" />
+        <Header title="Ethan's Website" />
         <p className="description">
           <code>My Wish List</code>
         </p>
