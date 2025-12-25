@@ -30,6 +30,9 @@ export default function Home() {
         <p className="description">
           -Mini trash can for my sewing table
         </p>
+        <p className="description">
+          -Printer (not til Christmas)
+        </p>
       </main>
 
       <Footer />
