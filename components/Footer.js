@@ -5,7 +5,7 @@ export default function Footer() {
     <>
       <footer className={styles.footer}>
         <a href="https://www.linkedin.com/in/ethan-munden" target="_blank" rel="noopener">
-          <img src="/logo-netlify.svg" alt="Netlify Logo" className={styles.logo} />
+          <img src="/smiley.svg" alt="Netlify Logo" className={styles.logo} />
         </a>
       </footer>
     </>
